@@ -1,7 +1,1 @@
- https://github.com/${GITHUB_USERNAME}/lab03.git
-git pull origin master
-touch README.md
-git status
-git add README.md
-git commit -m"added README.md"
-git push origin master
+fgndhmmghdm
