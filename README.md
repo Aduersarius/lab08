@@ -1,3 +1,4 @@
+https://travis-ci.org/Aduersarius/lab05.svg?branch=master
 <<<<<<< HEAD
 # lab3
 =======
